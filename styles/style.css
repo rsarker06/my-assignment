@@ -48,7 +48,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:;
+    
 }
 
  
@@ -327,7 +327,7 @@
 .all-footter{
 width: 1140px;
 height: 313px;
-border: 2px solid red;  
+
 margin: 0 auto;
 margin-top: 5px;
 }
@@ -366,7 +366,7 @@ margin-top: 5px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* background-color: rgba(0, 0, 0, 0.5);  */
+   
     padding: 20px;
     border-radius: 5px;
 }
@@ -384,17 +384,26 @@ margin-top: 5px;
 }
 .fb-icon{
     height: 36px;
-    width: 36px;  
+    width: 36px; 
+     
 }
 
 .git-icon{
     margin-left: 20px;
     height: 36px;
-    width: 36px;
+    width: 36px; 
+   
 }
 
 .in-icon{
     margin-left: 20px;
     height: 36px;
-    width: 36px;
+    width: 36px; 
+    
+}
+
+.awesome-icon{
+
+    height: 36px;
+    width: 36px;  
 }

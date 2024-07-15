@@ -1,0 +1,400 @@
+.all-header{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+.header-image{
+    width: 1440px;
+    height: 652px;
+    background-image: url(image/Hero-bg.png);
+
+}
+.image-2{
+    background-image: url(image/Group.png);
+    width: 240.28px;
+    height: 240px;
+    
+    margin-left: 40%;
+}
+.heading-div{
+    margin-top: 10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+    font-size: x-large;
+}
+
+
+.btn-text{
+    color: white;
+    
+}
+
+    .heading-div button{
+       
+        width: 244px;
+        height: 65px;
+        margin-right: 2%;
+        background-color: black;
+       border-radius: 8px;
+         
+    }
+
+.section-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:;
+}
+
+ 
+
+    
+
+
+.heading1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+
+.web-devloper{
+    width: 850px;
+    height: 240px;
+  
+   
+   
+}
+
+.web-site{
+    display: flex;
+   
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.web-dev{
+    width: 50%;
+
+    height: 240px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.web-devlop {
+    width: 50%;
+
+    height: 240px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.web-dev button {
+    margin-right: 280px;
+    padding: 5px;
+    width: 100px;
+   
+}
+.web-devlop img{
+    width: 50%;
+    height: 240px;
+
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.modern-dev{
+
+    width: 850px;
+    height: 240px;
+   
+   
+}
+.modern-content{
+    display: flex;
+   
+    width: 90%;
+    margin: 0 auto;
+}
+
+.modern-devlop{
+    width: 50%;
+    
+    height: 240px;
+}
+.modern-heading{
+    width: 50%;
+   
+    height: 240px;   
+}
+
+.modern-devlop{
+    width: 50%;
+    
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modern-heading button{
+    padding: 5px;
+    width: 100px;
+}
+
+
+.section-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.heading2{
+    margin-left: 85px;
+}
+
+
+
+
+
+.coding-devloper{
+    width: 850px;
+    height: 240px;
+  
+   
+    background-color:#fff;
+}
+.coding-site{
+    display: flex;
+   
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.coding-dev{
+    width: 50%;
+
+    height: 240px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.coding-devlop {
+    width: 50%;
+
+    height: 240px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coding-dev button {
+    margin-right: 280px;
+    padding: 5px;
+    width: 100px;
+}
+.coding-devlop img{
+    width: 50%;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.inspresion{
+   text-align: center;
+   justify-content: center;
+   
+}
+
+.video{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+   
+}
+
+
+.Current-target{
+    text-align: center;
+    justify-content: center;
+}
+
+.section-4{
+   width: 1140px;
+   height: 460px;
+   margin: 0 auto;
+   
+   
+   
+  
+
+
+}
+.next-target{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.target-image{
+    display:flex ;
+  
+   
+    
+}
+.first-div{
+      width: 364px;
+      height: 299px;
+      background-color: #eee9e2;
+      border-radius: 10px;
+}
+.second-div{
+      width: 364px;
+     height: 299px;
+    background-color: powderblue ;
+    border-radius: 10px;
+} 
+.third-div{
+   width: 364px;
+   height: 299px;
+   background-color: antiquewhite; 
+   border-radius: 10px;
+}
+.first-image{
+    width: 56px;
+    height: 56px;
+ 
+}
+
+.first-discription{
+
+    padding: 50px;
+}
+.second-image{
+    width: 56px;
+    height: 56px;
+  
+}
+
+.second-discription{
+    padding: 50px; 
+}
+.third-image{
+     width: 56px;
+    height: 56px;
+  
+}
+
+.third-discription{
+    padding: 50px; 
+
+}
+
+.image-4{
+
+    display: flex;
+    gap: 24px;
+}
+
+
+.all-footter{
+width: 1140px;
+height: 313px;
+border: 2px solid red;  
+margin: 0 auto;
+margin-top: 5px;
+}
+.bg-image{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+   
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+.button-size{
+    width: 548px;
+    height: 57px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.submit-btn{
+    width: 120px;
+    height: 57px;
+    border-radius: 10px;
+}
+
+.footer-image{
+    width: 1140px;
+    height: 313px;
+    filter: blur(2px);
+}
+.text-div{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background-color: rgba(0, 0, 0, 0.5);  */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.footer-btn{
+    display: flex;
+   gap: 20px;
+   align-items: center;
+}
+
+.footer-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fb-icon{
+    height: 36px;
+    width: 36px;  
+}
+
+.git-icon{
+    margin-left: 20px;
+    height: 36px;
+    width: 36px;
+}
+
+.in-icon{
+    margin-left: 20px;
+    height: 36px;
+    width: 36px;
+}
